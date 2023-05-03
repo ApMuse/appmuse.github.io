@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://appmuse.github.io/fr/</loc>
+    <loc>https://app-muse.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://appmuse.github.io/"
+                href="https://app-muse.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://appmuse.github.io/fr/"
+                href="https://app-muse.github.io/fr/"
                 />
   </url><url>
-    <loc>https://appmuse.github.io/fr/categories/</loc>
+    <loc>https://app-muse.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://appmuse.github.io/categories/"
+                href="https://app-muse.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://appmuse.github.io/fr/categories/"
+                href="https://app-muse.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://appmuse.github.io/fr/series/</loc>
+    <loc>https://app-muse.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://appmuse.github.io/series/"
+                href="https://app-muse.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://appmuse.github.io/fr/series/"
+                href="https://app-muse.github.io/fr/series/"
                 />
   </url><url>
-    <loc>https://appmuse.github.io/fr/tags/</loc>
+    <loc>https://app-muse.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://appmuse.github.io/tags/"
+                href="https://app-muse.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://appmuse.github.io/fr/tags/"
+                href="https://app-muse.github.io/fr/tags/"
                 />
   </url>
 </urlset>

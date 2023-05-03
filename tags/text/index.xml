@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on App Muse</title>
-    <link>https://appmuse.github.io/tags/text/</link>
+    <link>https://app-muse.github.io/tags/text/</link>
     <description>Recent content in text on App Muse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://appmuse.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://app-muse.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://appmuse.github.io/piano/placeholder-text/</link>
+      <link>https://app-muse.github.io/piano/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://appmuse.github.io/piano/placeholder-text/</guid>
+      <guid>https://app-muse.github.io/piano/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
